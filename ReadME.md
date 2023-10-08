@@ -1,0 +1,2 @@
+--- server start ---->>>> go run main.go
+--- you can run index.html on live server or etc..
